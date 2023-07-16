@@ -18,7 +18,10 @@ Read more about from the LVGL Documentation
 ![STM32F429I-DISC1](STM32F429DISCOVERY1.png)
 
 
-### Commits by
+## Repository info
+The content within this repository is my own work produced as a result of completing the course.
+### About me
 * George Calin
 * george.calin [at] gmail.com
-* Connect me on LinkedIn: https://www.linkedin.com/in/cgeorge1978/
+* LinkedIn: https://www.linkedin.com/in/cgeorge1978/
+
